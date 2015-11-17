@@ -1,0 +1,1 @@
+function mapper(val,oMin,oMax,nMin,nMax){return(((val-oMin)*(nMax-nMin))/(oMax-oMin))+(nMin);}
